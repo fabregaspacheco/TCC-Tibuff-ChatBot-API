@@ -1,0 +1,10 @@
+gspread
+oauth2client
+flask
+flask-cors
+requests
+uuid
+datetime
+twilio
+google-cloud-dialogflow
+python-dotenv

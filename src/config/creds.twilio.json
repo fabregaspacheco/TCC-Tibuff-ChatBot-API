@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tibuffbot-ico9",
+  "private_key_id": "79cfb8940535ad4e85d46c1116382e5dbb518afc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFTmbZhD1/ko6i\nit6Dbmu8cxJ/g8OobLRBWoYizkU2/1xn/L/Jp8CVVjrHXmwAd6DyaUJuXn5PnFhG\n4O2x3KrHoKABapv9Zb/E3n/b8PDtizKZ0iyuOyOr9RQ1MtkNqS/tamGRzcigD+Bu\nrwPGeIenrpqOTk9tOItrBC0yr0j80BdF1D1JeCOApLZyGKHlQELuoAR4m6/oKwqo\nGmRe5oi9k0jqFhQcCSP205ckoZ1rbWmUv9ihFN8zGnBJFKhfSokWHoebYvc3oiIN\nH5lbrd/7bpqPxgUFwUJW/RUpciNFV9n+AsIjrs6O1D9QGjf32AomXH8Yh7QJUF8T\n9ekBO8yZAgMBAAECggEAJm2b9gL9yFZGzg0eg/oyZRCDeo7zAV90pyLmq6pBjFHl\nkUJGp1OzHFLgXVq8TcX+9J/AJsdkMgS5I8rkuKbKI1nbOBNnwM17sXAFdpShlB5v\nk0p+VcviaXgxAKB/6lt4oHS+/psWF2ioNV6EbXglsai95PgHG7Zu3v+//tZpcIWO\nZ2NF2t0z37RfZ7pHw2WOSpn84bww7p9Hkq2EtxF33eEike6QcG11Af4e7Vb5aOsX\ngOkkoCQHvW8wK9euBbwIZgMunGek5xvf87hixvpxgqMYKx+jJHoAsPS+Uw9QI6nx\nkx2+rpTajOfIkO9TaIaHZZO67piHg2AZOWUJA9fVdQKBgQDk3SoK1nbHboRm0r9Z\nM0Wmv7YHpkxIxuw+CrA75r5sstSYWa/nlKwSyI0yjpcMyFGwc8/1tYZzQyHep/AZ\nLTi5BzBmnhI3WluITIHyJQ+aSyQsOI31r1TMKDJrxWBj4OyiOAvUPbr6lM8R427L\ntx2cDmZEtzTyMa38Nwl0KUv63QKBgQDcs1mScImKTUGlnZmk1suevgSjKWHECwi2\n3XERzJ+5lHwLaVUS4d5PMzI2kYAktTV041UCE5R7Htksj8MijIGNWeIHELwMSam3\nWSFKd49qfBufyhlGCwkD+smnO9qwmz7LROCtGcqhXXdfOB1wf2eQrt7q8mER6vni\nMZmXf2rm7QKBgC3FeaoPOFQsazhxP6mkUnLF9q7S+IC5n/fMhXCFdmIg5dnOXhrP\nphZfm7WXxOfejE/g6Z93fXtB2t0/8wnl/Gks4eY0COqfHJ1Gx9pYxSUTkBlz+hg/\nx5LJG0Rohh2Tl1/eG6eH7QQ+jKdEOB1v8vEKBDQL+//QJb7CdxaPR83VAoGBAL45\nW7/rfbEV67o6v54jgPe+4jJbzadytz0eWoGz9Au5nr0bObd/tORgxSvhdyisg3nP\nI4sZo0YHjbpp4xAZOOTDjxz14I9awoyEpzwPFy7577lnMSd9BXVHqJ2a6mCEPrhn\nEpxAebVh4SzSKhW3ymUbRIoPBXmzJVQ/2hmJOnP1AoGBAKv8s8P2UjXtFgHC7oQ/\n3EH4TROH6M5tSE5YERrNezn8GOCLo/2omW6tTNE6b7DnGNjWTFuwmaJbU263owIN\nPVujtZHzfVeKL2A7mZUM999XTBlh5RCyqn1V74BP7aBXLgIQDq9PiNE4DoQmDHQ3\n9j00nu8Ua8zZtnYSJ5/wTpzn\n-----END PRIVATE KEY-----\n",
+  "client_email": "twilio@tibuffbot-ico9.iam.gserviceaccount.com",
+  "client_id": "109807526282531712828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twilio%40tibuffbot-ico9.iam.gserviceaccount.com"
+}
